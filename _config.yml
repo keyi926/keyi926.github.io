@@ -2,10 +2,10 @@
 title: Ke Yi
 description: Biology, materials, and art
 url: https://keyi926.github.io
-avatar: /avatar.jpg
+avatar: /avatar_child.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg_tree.jpeg
 
 # Gems
 plugins:
