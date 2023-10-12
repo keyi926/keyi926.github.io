@@ -2,8 +2,9 @@
 layout: post
 title: 通过薄膜水化法合成磁性纳米颗粒
 author: Ke Yi
-tags: [experiment, matirial]
-date: 2023-10-12 17:24 +0800
+tags: [experiment, material]
+date: 2023-4-3 10:33 +0800
+last_modified_at: 2023-7-6 19:44 +0800
 toc: true
 ---
 

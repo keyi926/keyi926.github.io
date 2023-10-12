@@ -2,10 +2,12 @@
 layout: post
 title: 通过点击化学合成肽段修饰的DSPE-PEG脂质
 author: Ke Yi
-tags: [experiment, chemistry, matirial]
-date: 2023-10-12 17:14 +0800
+tags: [experiment, chemistry, material]
+date: 2023-4-3 10:14 +0800
+last_modified_at: 2023-7-24 18:53 +0800
 toc: true
 ---
+
 ### 描述：
 >通过巯基（S-S二硫键）与马来酰亚胺（-Mal）的Click Reaction合成带有靶向肽的DSPE0-PEG脂质
 
