@@ -1,8 +1,50 @@
 ---
-layout: page
-title: About
+layout: post
+title: About me
+author: Ke Yi
+tags: [resume, introduction]
+date: 2023-10-12 11:19 +0800
+toc: true
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+# Ke Yi
+- Tel: +86-13547960573
+- Email: kddr_0981@outlook.com
+- Location: Guangzhou, China
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## 1. Field of Specialization
+- Biomatirials
+- Genome Editing
+
+## 2. Education
+<dl>
+  <dt>Sichuan University</dt>
+  <dd>2015.09-2019.06</dd>
+  <dd>B.S in Biological Science</dd>
+
+  <dt>Sun Yat-sen University</dt>
+  <dd>2019.06-2024.06</dd>
+  <dd>Ph.D in Basic Medicine (Molecular Medicine)</dd>
+</dl>
+
+## 3. Skills
+<dl>
+  <dt>Expertimental skills</dt>
+  <dd> Liposome design and sythesis</dd>
+  <dd> Plamid construction</dd>
+  <dd> Cell culture, Flow cytometry</dd>
+  <dd> Construction of orthotopic HCC mouse Model</dd>
+
+  <dt>Software</dt>
+  <dd> ImageJ, FlowJo, GraphPad Prism, SnapGene, MestReNova</dd>
+  <dd> Word, EndNote, Zotero</dd>
+  <dd> Adobe Photoshop, Adobe Illustrator, Blender</dd>
+
+  <dt>General</dt>
+  <dd>Language: Chinese as mother tongue, English</dd>
+</dl>
+
+## 4. Honor
+Ministry of Education of the PRC, National Scholarship 2023
+
+## 5. Publication
