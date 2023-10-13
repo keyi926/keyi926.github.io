@@ -1,13 +1,4 @@
----
-layout: post
-title: Western Blot 方法
-author: Ke Yi
-tags: [experiment, molecular biology, protein]
-date: 2022-8-19 16:01 +0800
-last_modified_at: 2023-9-7 09:32 +0800
-toc: true
----
-
+w
 ### 描述:
 >蛋白免疫印迹（ Western Blot，WB）是将蛋白样本通过聚丙烯酰胺电泳按分子量大小分离，再转移到杂交膜（blot）上，然后通过一抗/二抗复合物对靶蛋白进行特异性检测的方法。 WB 是进行蛋白质分析最流行和成熟的技术之一。本SOP包括Western Blot 操作方法及常见问题分析，有助于成功完成 WB。
 

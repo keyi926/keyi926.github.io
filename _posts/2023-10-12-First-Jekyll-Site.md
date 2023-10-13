@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Jekyll Site 建站心得
+title: My First Jekyll Site
 author: Ke Yi
 tags: [Jekyll, Tech]
 date: 2023-10-12 14:01 +0800
@@ -10,7 +10,7 @@ toc: true
 {: .message }
 
 ## 1.建站目的
-建立此个站的初衷是为了分享一些心得体会，包括但不限于实验技术，软件使用，读书体会，日常爱好等等。
+建立此个站的初衷是为了分享一些心得体会，包括但不限于实验技术，软件使用等。
 
 希望有朝一日能将小站做大做强:>
 
