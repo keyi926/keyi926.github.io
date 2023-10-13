@@ -15,7 +15,7 @@ toc: true
 希望有朝一日能将小站做大做强:>
 
 ## 2.建站流程
-建立此站的过程大致分为搭建Jekyll环境、建立网页框架、部署到Github三个步骤。下面的流程也许能帮助到今后的建站流程。
+建立此站的过程大致分为搭建Jekyll环境、建立网页框架、部署到Github三个步骤。
 
 ### 2.1 搭建Jekyll环境
 本站选择使用Jekyll和Github Pages来搭建。原因其一是这个方案完全免费，其二是因为Jekyll所提供的静态页面完全满足我的轻度使用。
@@ -50,7 +50,7 @@ gem install jekyll bundler
 jekyll new mywebsite
 {% endhighlight %}
 
-此外也可以fork已有的模板。本站主要基于Jekyll主题[not-pure-poole](https://github.com/vszhub/not-pure-poole)
+此外,也可以fork已有的模板。本站主要基于Jekyll主题[not-pure-poole](https://github.com/vszhub/not-pure-poole)
 
 <mark>之后的操作需要先cd到Jekyll网站根目录</mark>
 
