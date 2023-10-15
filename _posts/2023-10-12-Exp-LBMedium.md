@@ -2,6 +2,7 @@
 layout: post
 title: 配制LB培养基
 author: Ke Yi
+categories: protocol
 tags: [experiment, microbe]
 date: 2022-2-18 16:20 +0800
 last_modified_at: 2023-6-7 14:06 +0800

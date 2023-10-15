@@ -2,6 +2,7 @@
 layout: post
 title: Western Blot
 author: Ke Yi
+categories: protocol
 tags: [experiment, molecular biology, protein]
 date: 2023-8-8 09:19 +0800
 last_modified_at: 2023-10-12 19:58 +0800

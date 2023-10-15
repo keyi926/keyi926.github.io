@@ -2,6 +2,7 @@
 layout: post
 title: My First Jekyll Site
 author: Ke Yi
+categories: blog
 tags: [Jekyll, Tech]
 date: 2023-10-12 14:01 +0800
 toc: true

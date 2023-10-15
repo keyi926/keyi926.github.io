@@ -1,6 +1,15 @@
 #- type: categories
   #title: Categories
   #url: /categories/
+- type: aboutme
+  title: About me
+  url: /about/
+- type: blog
+  title: Blog
+  url: /blog/
+- type: protocol
+  title: Protocol
+  url: /protocol/
 - type: dates
   title: Dates
   url: /dates/

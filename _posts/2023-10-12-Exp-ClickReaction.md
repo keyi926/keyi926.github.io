@@ -2,6 +2,7 @@
 layout: post
 title: 通过点击化学合成肽段修饰的DSPE-PEG脂质
 author: Ke Yi
+categories: protocol
 tags: [experiment, chemistry, material]
 date: 2023-4-3 10:14 +0800
 last_modified_at: 2023-7-24 18:53 +0800

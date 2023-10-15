@@ -2,6 +2,7 @@
 layout: post
 title: 通过一锅水热法合成PEI-MNP
 author: Ke Yi
+categories: protocol
 tags: [experiment, material]
 date: 2023-4-3 10:14 +0800
 last_modified_at: 2023-7-24 18:53 +0800

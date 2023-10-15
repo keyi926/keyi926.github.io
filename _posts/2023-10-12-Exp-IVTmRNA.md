@@ -2,6 +2,7 @@
 layout: post
 title: 体外转录 IVT mRNA
 author: Ke Yi
+categories: protocol
 tags: [experiment, molecular biology, RNA]
 date: 2022-2-21 17:30 +0800
 last_modified_at: 2023-6-6 19:12 +0800

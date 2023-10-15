@@ -3,7 +3,7 @@ title: Ke Yi
 description: My personal website
 url: https://keyi926.github.io
 avatar: /avatar.jpg
-paginate: 5
+paginate: 10
 permalink: pretty
 cover_image: /bg.jpg
 
@@ -48,7 +48,7 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # google_analytics: UA-000000-0
 
-# Replace this value and uncomment to enable Disqus
+# Replace this value and uncomment to enable Disqus （评论）
 # disqus: xxxxxx
 
 # Specify the author for blog posts

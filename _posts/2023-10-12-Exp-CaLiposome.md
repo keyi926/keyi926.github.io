@@ -2,6 +2,7 @@
 layout: post
 title: 通过薄膜水化法合成碳酸钙载药膜融合脂质体
 author: Ke Yi
+categories: protocol
 tags: [experiment, material]
 date: 2022-2-18 15:55 +0800
 last_modified_at: 2023-9-14 20:24 +0800
