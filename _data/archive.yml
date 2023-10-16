@@ -10,6 +10,9 @@
 - type: protocol
   title: Protocol
   url: /protocol/
+- type: gallery
+  title: Gallery
+  url: /gallery/ 
 - type: dates
   title: Dates
   url: /dates/

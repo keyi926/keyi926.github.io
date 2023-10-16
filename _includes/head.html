@@ -1,12 +1,18 @@
 <head>
+  <!--指定字符编码-->
   <meta charset="UTF-8">
+  <!--视口=设备屏幕宽度-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--引入Pure CSS库，以创建CSS框架-->
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+  <!--本地CSS文件-->
   <link rel="stylesheet" href="{{ 'assets/styles.css' | relative_url }}">
 
+   <!--Jekyll标签，用于自动生成SEO（搜索引擎优化）及RSS订阅内容-->
   {%- seo -%}
   {%- feed_meta -%}
 
+  <!--包含一个用于自定义head的文件以添加额外的代码-->
   {%- include custom-head.html -%}
 </head>
