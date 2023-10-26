@@ -7,70 +7,70 @@ tags: [Jekyll, Tech]
 date: 2023-10-12 14:01 +0800
 toc: true
 ---
-欢迎来到本站！
+How did I establish my first jekyll site
 {: .message }
 
-## 1.建站目的
-建立此个站的初衷是为了分享一些心得体会，包括但不限于实验技术，软件使用等。
+## 1.Purpose for establishing this website
+I established this site to share some experience, including but not limited to experimental techniques, software use, etc..
 
-希望有朝一日能将小站做大做强:>
+I'm looking forward to making this site bigger someday :>
 
-## 2.建站流程
-建立此站的过程大致分为搭建Jekyll环境、建立网页框架、部署到Github三个步骤。
+## 2.The process of building the site
+The process of building this site is roughly divided into three steps: building the Jekyll environment, building the web framework, and deploying to Github.
 
-### 2.1 搭建Jekyll环境
-本站选择使用Jekyll和Github Pages来搭建。原因其一是这个方案完全免费，其二是因为Jekyll所提供的静态页面完全满足我的轻度使用。
+### 2.1 Build Jekyll environment
+I chose to use Jekyll and Github Pages to build this site.
 
-- 首先，Jekyll基于Ruby环境，我使用了Homebrew控制工具Rbenv并通过其安装Ruby。
+- First of all, Jekyll is based on a Ruby environment, and I used the Homebrew control tool Rbenv and installed Ruby through it.
 
-<mark>特别注意，Ruby版本尽量选择2.7.0版本，如版本过高部分Jekyll模板可能不兼容。</mark>
+<mark>P.S. Ruby version try to choose 2.7.2 version, such as version is too high part of the Jekyll template may not be compatible.</mark>
 
 {% highlight zsh %}
 brew rbenv
-rbenv install 2.7.0
+rbenv install 2.7.2
 {% endhighlight %}
 
-- 全局应用2.7.0版本，并source到shell。
+- Apply version 2.7.2 globally and source it to shell.
 
 {% highlight zsh %}
-rbenv global 2.7.0
+rbenv global 2.7.2
 source ~/.zshrc
 {% endhighlight %}
 
-- 再进一步通过gem安装jekyll后可以开始建立网页框架。
+- Further installing jekyll via gem allows you to start building the web framework.
 
 {% highlight zsh %}
 gem install jekyll bundler
 {% endhighlight %}
 
 
-### 2.2 建立网页框架
-建立网页框架的方式主要有两种，Jekyll可以直接建立一个minima主题的网站模板。
+### 2.2 Creating a web framework
+There are two main ways to build a web framework, Jekyll can directly build a minima theme website template.
 
 {% highlight zsh %}
 jekyll new mywebsite
 {% endhighlight %}
 
-此外,也可以fork已有的模板。本站主要基于Jekyll主题[not-pure-poole](https://github.com/vszhub/not-pure-poole)
+In addition, you can also fork existing templates. This site is mainly based on the Jekyll theme [not-pure-poole](https://github.com/vszhub/not-pure-poole)
 
-<mark>之后的操作需要先cd到Jekyll网站根目录</mark>
+<mark>P.S. The following operations are need to cd to the Jekyll root directory first</mark>
 
-当fork别人的模板时，初次部署服务器前应当使用bundle安装模板中使用的gem，之后使用serve命令在本地部署服务器。
+When you fork the template, you should use bundle to install the gem used in the template before deploying the server for the first time, and then use the serve command to deploy the server locally.
 
 {% highlight zsh %}
-//安装缺失的gem
+//Install the gem
 bundle install
-//部署服务器到本地
+//Deploy the server locally
 bundle exec jekyll serve
 {% endhighlight %}
 
-之后便可以通过[http://localhost:4000](http://localhost:4000)访问本地网站
+Then you can access the local website at [http://localhost:4000](http://localhost:4000)
 
-### 2.3 部署到Github
-当调试完成后，可以通过Github desktop部署到Github Pages
+### 2.3 Deploying to Github Pages
+When debugging is complete, you can deploy to Github Pages via Github desktop.
 
-首先需要在Github仓库中建立一个仓库，命名为（用户名）.github.io, 如keyi926.github.io
+First, you need to create a repository in the Github repository named (username).github.io, e.g. keyi926.github.io.
 
-将该库克隆到本地，并将调试好的网站文件复制到Github目录下,在Github Desktop提交更新并push
+Clone the repository locally and copy the debugged website files to the Github directory, submit the update in Github Desktop and push it to Github server.
 
-便可以通过[keyi926.github.io](http://keyi926.github.io)访问网站
+Then you can access the website via [keyi926.github.io](http://keyi926.github.io)

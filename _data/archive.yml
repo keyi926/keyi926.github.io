@@ -7,9 +7,9 @@
 - type: blog
   title: Blog
   url: /blog/
-- type: protocol
-  title: Protocol
-  url: /protocol/
+#- type: protocol
+#  title: Protocol
+#  url: /protocol/
 - type: gallery
   title: Gallery
   url: /gallery/ 
