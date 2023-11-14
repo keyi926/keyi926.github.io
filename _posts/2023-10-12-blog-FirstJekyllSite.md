@@ -1,24 +1,24 @@
 ---
 layout: post
-title: My First Jekyll Site
+title: My First Jekyll Website
 author: Ke Yi
 categories: blog
 tags: [Jekyll, Tech]
 date: 2023-10-12 14:01 +0800
 toc: true
 ---
-How did I establish my first jekyll site
+The way to establish this website.
 {: .message }
 
-## 1.Purpose for establishing this website
+# 1. Why did I establish this website?
 I established this site to share some experience, including but not limited to experimental techniques, software use, etc..
 
 I'm looking forward to making this site bigger someday :>
 
-## 2.The process of building the site
+# 2. How did I establish this website?
 The process of building this site is roughly divided into three steps: building the Jekyll environment, building the web framework, and deploying to Github.
 
-### 2.1 Build Jekyll environment
+## 2.1 Build Jekyll environment
 I chose to use Jekyll and Github Pages to build this site.
 
 - First of all, Jekyll is based on a Ruby environment, and I used the Homebrew control tool Rbenv and installed Ruby through it.
@@ -66,7 +66,7 @@ bundle exec jekyll serve
 
 Then you can access the local website at [http://localhost:4000](http://localhost:4000)
 
-### 2.3 Deploying to Github Pages
+## 2.3 Deploying to Github Pages
 When debugging is complete, you can deploy to Github Pages via Github desktop.
 
 First, you need to create a repository in the Github repository named (username).github.io, e.g. keyi926.github.io.
