@@ -28,16 +28,16 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: keyi926
-  card: summary
-logo: logo.png
-social:
-  name: Ke Yi
-  links:
-    - https://github.com/keyi926/
-google_site_verification: xxxxx
-lang: en
+#twitter:
+  #username: keyi926
+  #card: summary
+#logo: logo.png
+#social:
+  #name: Ke Yi
+  #links:
+    #- https://github.com/keyi926/
+#google_site_verification: xxxxx
+#lang: en
 
 sass:
   sass_dir: _sass
@@ -55,4 +55,4 @@ sass:
 author:
   name: Ke Yi
   url: https://github.com/keyi926/
-  email: kddr_0981@outlook.com
+  email: keyi26@outlook.com
